@@ -5,7 +5,10 @@ Personal contact card made with React
 
 ## DEMO:
 
-https://scrimba.com/scrim/co3c74263a48f4fa4eb81a56e
+https://personalcardov.netlify.app/
+
+**Facebook and twitter buttons are just for demo. 
+Email - LinkedIn - Instagram & GitHub are active, click them!
 
 ## Dependencies:
 
